@@ -13,3 +13,5 @@ Nosso projeto se divide em 3 partes:
 **2. Modelagem e Análise dos Dados**: aplicaremos técnicas de modelagem de dados e analisaremos os dados mundiais e com destaque para a realidade brasileira. 
 
 **3. Conclusões**: nesse último tópico procuramos extrair o quadro atual da situação brasileira, em termos de águas seguras para consumo, e quais desdobramentos podemos sugerir para futuros projetos que ajudem na criação e manutenção de um mundo mais sustentável, incluindo o Brasil.
+_______________
+
