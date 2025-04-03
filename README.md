@@ -15,3 +15,4 @@ Nosso projeto se divide em 3 partes:
 **3. Conclusões**: nesse último tópico procuramos extrair o quadro atual da situação brasileira, em termos de águas seguras para consumo, e quais desdobramentos podemos sugerir para futuros projetos que ajudem na criação e manutenção de um mundo mais sustentável, incluindo o Brasil.
 _______________
 
+[Análise_acesso_água.webm](https://github.com/user-attachments/assets/5f294975-3969-4d69-830a-70c264b488f6)
